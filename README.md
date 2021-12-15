@@ -1,2 +1,2 @@
 # Predicition-of-House-Price
-Kings County of California has been used to analyze and build the various machine learning models to predict the house price
+Kings County of Washington has been used to analyze and build the various machine learning models to predict the house price. Gradient Booost model achieved an accuracy of 84% followed by Random Forest,Decision Tree and Neural Network. Grade, location and sqft of the house are the influencing factors of house price. Gradient Boost model would be good enough to use in real time to predict the house price in Kings county of Washington. This model can be leveraged to use irrespective of the geographical location.
